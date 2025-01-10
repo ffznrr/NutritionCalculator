@@ -166,7 +166,7 @@ export default function CalculatePage() {
 
             <button
               onClick={calculateNutrition}
-              className="w-full py-2 bg-blue-500 text-white rounded-lg hover:bg-blue-600 focus:outline-none"
+              className="w-full py-2 bg-[#5D8736] text-[#F4FFC3] hover:text-[#5D8736] rounded-lg hover:bg-[#F4FFC3] border-2 border-[#5D8736] focus:outline-none"
             >
               Calculate Nutrition
             </button>
